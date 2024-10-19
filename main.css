@@ -251,8 +251,11 @@ header,main {
 }
 .blue-button {
     width: 80%;
+}main{
+    width:100%;
+    }
 }
-}
+
 
 /* スマホ用スタイル */
 @media (max-width: 600px) { /* 画面幅が600px以下の場合 */
